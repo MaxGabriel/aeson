@@ -22,7 +22,6 @@ import Prelude.Compat
 
 import Control.Applicative
 import Data.Monoid ((<>))
-import Prelude hiding (id)
 import Twitter
 
 #ifndef HAS_BOTH_AESON_AND_BENCHMARKS
